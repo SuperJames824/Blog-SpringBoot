@@ -1,5 +1,4 @@
 # Blog-SpringBoot
-# blog
 
 **简介：** 基于Spring Boot开发的小型个人博客+后台管理
 
