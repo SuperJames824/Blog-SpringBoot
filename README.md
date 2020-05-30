@@ -14,6 +14,20 @@
 * Maven3
 * JDK8
 
+
+# 如何运行
+
+1. 克隆本项目到本地
+
+2. 根据sql文件夹下的blog.sql文件生成数据库
+3. 修改application.yml配置(Mysql配置以及Redis配置,在此强烈推荐[一个开源免费的Redis客户端](https://github.com/cinience/RedisStudio))
+4. 运行项目
+
+博客首页路径：http://localhost:8080/
+
+博客后台管理：http://localhost:8080/admin  账号：admin 密码：admin
+
+
 # 页面展示
 
 **首页展示**
@@ -32,8 +46,13 @@
 
 **关于我页面展示**
 
-![关于我.png](https://i.loli.net/2020/04/11/ylv5s3VKjC2ur67.png)
+![about.png](https://github.com/SuperJames824/Blog-SpringBoot/blob/master/Blog-SpringBoot/src/test/java/com/dsy/blog/about.png?raw=true)
 
 **后台管理页面展示**
 
 ![后台管理.png](https://i.loli.net/2020/04/11/rVCk4flHwYMpFvD.png)
+
+
+
+
+
